@@ -69,7 +69,7 @@ tkinter: Для создания окна настроек программы.
 
 1. **Клонируйте репозиторий:** Сначала склонируйте этот репозиторий на свой компьютер с помощью Git:
 
-   git clone https://github.com/ваш-логин/RobloxXperienceAI.git
+   git clone https://github.com/ror0ror02/RobloxXperienceAI.git
    cd RobloxXperienceAI
 
 Настройте виртуальное окружение: Рекомендуется создать виртуальное окружение для изоляции зависимостей проекта. Вы можете использовать venv в Python:
