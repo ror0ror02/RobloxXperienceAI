@@ -3,13 +3,12 @@
 
 
 
-[На этом видео нейросеть учится играть в the Rake] (https://github.com/ror0ror02/RobloxXperienceAI/assets/142999522/d1860581-f1a3-4b33-bb2f-88ba7fdb9e02)
+https://github.com/ror0ror02/RobloxXperienceAI/assets/142999522/d1860581-f1a3-4b33-bb2f-88ba7fdb9e02
 
 
 
 
 ## На этом видео нейросеть учится играть в the Rake
-
 
 
 
