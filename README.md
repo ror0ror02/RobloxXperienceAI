@@ -1,6 +1,6 @@
 # RobloxXperienceAI
 
-ССЫЛКА НА ПОЛНЫЙ GITHUB - https://github.com/ror0ror02/RobloxXperienceAI
+**ССЫЛКА НА ПОЛНЫЙ GITHUB** - https://github.com/ror0ror02/RobloxXperienceAI
 
 
 https://github.com/ror0ror02/RobloxXperienceAI/assets/142999522/d1860581-f1a3-4b33-bb2f-88ba7fdb9e02
@@ -19,7 +19,7 @@ https://github.com/ror0ror02/RobloxXperienceAI/assets/142999522/f357865f-b476-4d
 
 
 ## А на этом видео - Пишет в чат и играет в Doors
-ССЫЛКА НА ПОЛНЫЙ GITHUB - https://github.com/ror0ror02/RobloxXperienceAI
+
 **RobloxXperienceAI**- это проект, который использует машинное обучение для определенных действий в игре Roblox. Этот README файл предоставляет описание кода, который используется для управления действиями персонажа в игре с использованием нейронных сетей и клавишей.
 
 В этом README представлен обзор проекта и его социальных экспериментов.
