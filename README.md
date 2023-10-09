@@ -1,7 +1,11 @@
 # RobloxXperienceAI
 
 
-https://github.com/ror0ror02/RobloxXperienceAI/assets/142999522/d1860581-f1a3-4b33-bb2f-88ba7fdb9e02
+
+
+[На этом видео нейросеть учится играть в the Rake] (https://github.com/ror0ror02/RobloxXperienceAI/assets/142999522/d1860581-f1a3-4b33-bb2f-88ba7fdb9e02)
+
+
 
 
 ## На этом видео нейросеть учится играть в the Rake
@@ -18,6 +22,41 @@ https://github.com/ror0ror02/RobloxXperienceAI/assets/142999522/f357865f-b476-4d
 ## А на этом видео - Пишет в чат и играет в Doors
 
 **RobloxXperienceAI**- это проект, который использует машинное обучение для определенных действий в игре Roblox. Этот README файл предоставляет описание кода, который используется для управления действиями персонажа в игре с использованием нейронных сетей и клавишей.
+
+В этом README представлен обзор проекта и его социальных экспериментов.
+
+## Социальные эксперименты
+
+### Сотрудничество с другими игроками **(Не проводилось)**
+
+- **Описание:** RobloxXperienceAI сотрудничает с другими игроками в Roblox для достижения общих целей.
+- **Цель:** Исследовать, как RobloxXperienceAI может сотрудничать и взаимодействовать с другими игроками.
+- **Шаги:** Запустить RobloxXperienceAI на сервере с другими игроками и наблюдать за совместной работой.
+
+### Эксперимент в игре "Doors" **(Проводился)**
+
+- **Описание:** RobloxXperienceAI взаимодействует с другими игроками через чат и играет в игру "Doors".
+- **Цель:** Исследовать, как RobloxXperienceAI может решать головоломки и взаимодействовать с другими игроками.
+- **Шаги:** Запустить RobloxXperienceAI в игре "Doors" и наблюдать за его взаимодействием.
+
+### Эксперимент в игре "The Rake" **(Проводился)**
+
+- **Описание:** RobloxXperienceAI играет в игру "The Rake", сосредотачиваясь на выживании.
+- **Цель:** Проверить способность RobloxXperienceAI выживать и навигироваться в игре.
+- **Шаги:** Запустить RobloxXperienceAI в игре "The Rake" и наблюдать за его производительностью.
+
+### Имитация новичка **(Скоро завершится)**
+
+- **Описание:** RobloxXperienceAI выступает в роли новичка в игре "Jailbreak", допуская ошибки и запрашивая помощь.
+- **Цель:** Исследовать реакцию игроков на новичков и их готовность помогать.
+- **Шаги:** Запустить RobloxXperienceAI как новичка в игре "Jailbreak" и наблюдать за взаимодействием игроков.
+
+## Результаты
+
+- В эксперименте в игре "Doors" RobloxXperienceAI взаимодействовал с другими игроками через чат и следовал за игроками.
+- В эксперименте в игре "The Rake" RobloxXperienceAI продемонстрировал Хорошие навыки выживания (После обучения).
+- Эксперимент в игре "Jailbreak" "Имитация новичка" все еще продолжается.
+
 
 ## Описание
 
@@ -147,6 +186,39 @@ InRXAIWindows.bat
 
 
 *RobloxXperienceAI* is a project that uses machine learning to perform certain actions in the Roblox game. This README file provides a description of the code that is used to control the character's actions in the game using neural networks and keystrokes.
+
+
+## Social Experiments
+
+### Cooperation with Other Players **(Not Conducted)**
+
+- **Description:** RobloxXperienceAI collaborates with other players in Roblox to achieve common goals.
+- **Objective:** Explore how RobloxXperienceAI can cooperate and interact with other players.
+- **Steps:** Launch RobloxXperienceAI on a server with other players and observe its collaboration.
+
+### Experiment in "Doors" Game **(Conducted)**
+
+- **Description:** RobloxXperienceAI interacts with other players through chat and plays the "Doors" game.
+- **Objective:** Investigate how RobloxXperienceAI can solve puzzles and interact with other players.
+- **Steps:** Launch RobloxXperienceAI in the "Doors" game and observe its interactions.
+
+### Experiment in "The Rake" Game **(Conducted)**
+
+- **Description:** RobloxXperienceAI plays "The Rake" game, focusing on survival.
+- **Objective:** Test RobloxXperienceAI's ability to survive and navigate the game.
+- **Steps:** Launch RobloxXperienceAI in "The Rake" game and observe its performance.
+
+### Novice Imitation **(Soon to End)**
+
+- **Description:** RobloxXperienceAI acts as a newcomer in the "Jailbreak" game, making mistakes and seeking help.
+- **Objective:** Investigate player reactions to newcomers and their willingness to help.
+- **Steps:** Launch RobloxXperienceAI as a newcomer in the "Jailbreak" game and observe player interactions.
+
+## Results
+
+- In the "Doors" game experiment, RobloxXperienceAI interacted with other players through chat and solved puzzles.
+- In the "The Rake" game experiment, RobloxXperienceAI demonstrated survival skills.
+- The "Jailbreak" game experiment "Novice Imitation" is ongoing.
 
 
 ## Description
