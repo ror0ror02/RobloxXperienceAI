@@ -221,8 +221,8 @@ pip install -r r_requirements.txt
 
 6. Run the code: Run the code using Python:
 ```
-python RXAI-New.py
+python RXAI-ENG-New.py
 ```
-(`RXAI-New.py` should work in the Roblox game)
+(`RXAI-ENG-New.py` should work in the Roblox game)
 
 *After running the code, the project will use neural networks to simulate a player in Roblox*
