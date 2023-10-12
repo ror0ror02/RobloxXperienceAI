@@ -18,11 +18,6 @@ if %ERRORLEVEL% neq 0 (
     exit /b 1
 )
 
-rem Создание виртуального окружения
-python -m venv venv
-
-rem Активация виртуального окружения
-.\venv\Scripts\activate
 
 rem Установка зависимостей
 pip install -r r_requirements.txt
