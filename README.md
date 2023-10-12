@@ -207,7 +207,7 @@ InRXAIWindows.bat
 - **Objective:** Test RobloxXperienceAI's ability to survive and navigate the game.
 - **Steps:** Launch RobloxXperienceAI in "The Rake" game and observe its performance.
 
-### Novice Imitation **(Soon to End)**
+### Novice Imitation **( End)**
 
 - **Description:** RobloxXperienceAI acts as a newcomer in the "Jailbreak" game, making mistakes and seeking help.
 - **Objective:** Investigate player reactions to newcomers and their willingness to help.
@@ -217,7 +217,7 @@ InRXAIWindows.bat
 
 - In the "Doors" game experiment, RobloxXperienceAI interacted with other players through chat and solved puzzles.
 - In the "The Rake" game experiment, RobloxXperienceAI demonstrated survival skills.
-- The "Jailbreak" game experiment "Novice Imitation" is ongoing.
+- The "Jailbreak" game experiment "Novice Imitation" .
 
 
 ## Description
