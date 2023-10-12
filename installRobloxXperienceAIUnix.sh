@@ -16,11 +16,6 @@ if ! command -v python &> /dev/null; then
     exit 1
 fi
 
-# Создание виртуального окружения
-python -m venv venv
-
-# Активация виртуального окружения
-source venv/bin/activate
 
 # Установка зависимостей
 pip install -r r_requirements.txt
