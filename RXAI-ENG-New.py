@@ -35,7 +35,7 @@ class NeuralNetwork(nn.Module):
 # Create and train neural networks for each action
 input_size = 4  # For WASD
 hidden_size = 128
-output_size = 11  # 11 classes: W, A, S, D, 1, 2, E, ENTER, SPACE, RIGHT_CLICK, LEFT_CLICK, NONE
+output_size = 12  # 11 classes: W, A, S, D, 1, 2, E, ENTER, SPACE, RIGHT_CLICK, LEFT_CLICK, NONE
 l2_penalty = 0.001  # L2 regularization parameter
 
 # Create a dictionary of neural networks for each action
