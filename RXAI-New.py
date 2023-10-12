@@ -35,7 +35,7 @@ class NeuralNetwork(nn.Module):
 # Создание и обучение нейронных сетей для каждого действия
 input_size = 4  # Для WASD
 hidden_size = 128
-output_size = 11  # 11 классов: W, A, S, D, 1, 2, E, ENTER, SPACE, RIGHT_CLICK, LEFT_CLICK, NONE
+output_size = 12  # 11 классов: W, A, S, D, 1, 2, E, ENTER, SPACE, RIGHT_CLICK, LEFT_CLICK, NONE
 l2_penalty = 0.001  # Параметр L2-регуляризации
 
 # Создаем словарь нейронных сетей для каждого действия
