@@ -6,9 +6,6 @@ if ! command -v git &> /dev/null; then
     exit 1
 fi
 
-# Клонирование репозитория
-git clone https://github.com/ror0ror02/RobloxXperienceAI.git
-cd RobloxXperienceAI
 
 # Проверка наличия Python
 if ! command -v python &> /dev/null; then
