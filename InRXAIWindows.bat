@@ -7,9 +7,6 @@ if %ERRORLEVEL% neq 0 (
     exit /b 1
 )
 
-rem Клонирование репозитория
-git clone https://github.com/ror0ror02/RobloxXperienceAI.git
-cd RobloxXperienceAI
 
 rem Проверка наличия Python
 where python >nul 2>&1
