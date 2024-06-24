@@ -1,5 +1,8 @@
 # RobloxXperienceAI
 
+# ВНИМАНИЕ: ЭТОТ ПРОЕКТ УЖЕ УСТАРЕЛ!
+ИСПОЛЬЗУЙТЕ MIFAG, https://github.com/ror0ror02/Multimodal-Interface-for-Automated-Gameplay-GPT4V-M.I.F.A.G.-
+
 **ССЫЛКА НА ПОЛНЫЙ GITHUB** - https://github.com/ror0ror02/RobloxXperienceAI
 
 
